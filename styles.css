@@ -22,10 +22,10 @@ section {
 
 #img-div {
   min-width: 300px;
-padding: 10px;
-background: #ffff;
-align-items: center;
-text-align: center;
+  padding: 10px;
+  background: #ffff;
+  align-items: center;
+  text-align: center;
 }
 
 #image {
@@ -43,6 +43,7 @@ text-align: center;
 }
 
 #main > p {
+  padding-top: 20px;
   margin: 0 0 1rem 0;
 }
 
@@ -51,10 +52,11 @@ h1, h3 {
 }
 
 h1 {
-  padding: 30px 0;
+  padding: 30px 0 0 0;
 }
 #title {
   font-size: 2.5rem;
+
 }
 #img-caption {
   margin: 15px 0 5px 0;
